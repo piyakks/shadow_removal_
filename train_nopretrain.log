@@ -1,0 +1,17 @@
+/home/user/anaconda3/envs/study/lib/python3.10/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/home/user/anaconda3/envs/study/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:227: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+/mnt/c/tae/Shadowremoval_my
+Namespace(batch_size=8, nepoch=80, train_workers=0, eval_workers=8, dataset='ISTD', pretrain_weights='./log/model_best.pth', optimizer='adamw', lr_initial=0.001, weight_decay=0.02, gpu='0', arch='ShadowFormer', mode='shadow', save_dir='./log', save_images=False, env='_istd', checkpoint=50, heira_mode='heira_l_adapter', pretrain=False, norm_layer='nn.LayerNorm', embed_dim=32, win_size=10, token_projection='linear', token_mlp='leff', att_se=False, vit_dim=320, vit_depth=12, vit_nheads=8, vit_mlp_dim=512, vit_patch_size=16, global_skip=False, local_skip=False, vit_share=False, train_ps=320, resume=False, train_dir='../ISTD+/train', val_dir='../ISTD+/test', warmup=True, warmup_epochs=3)
+Now time is :  2026-10-28T15:40:51.786394
+4
+trainable params: 292.04M / total 292.04M
+Using warmup and cosine strategy!
+===> Loading datasets
+Traceback (most recent call last):
+  File "/mnt/c/tae/Shadowremoval_my/train.py", line 124, in <module>
+    train_dataset = get_training_data(opt.train_dir, img_options_train)
+  File "/mnt/c/tae/Shadowremoval_my/utils/loader.py", line 5, in get_training_data
+    assert os.path.exists(rgb_dir)
+AssertionError

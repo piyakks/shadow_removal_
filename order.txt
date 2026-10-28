@@ -1,0 +1,1 @@
+python train.py --lr_initial 1e-4 --heira_mode hiera_adapter --batch_size 4 --train_dir '/mnt/d/shadow/ISTD+/train' --val_dir '/mnt/d/shadow/ISTD+/test'
