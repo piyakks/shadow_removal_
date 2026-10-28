@@ -1,4 +1,5 @@
 
+
 사전 학습 Foundatoin 모델과 Dilated Neighoborhood Attention Transformer(DiNAT)을 기반으로 한 Shadow Removal 딥러닝 모델 설계
 DiNAT의 국소지역 어텐션을 기반으로 그림자 구역 주변에 대한 어텐션을 통한 영역 복원
 ## Model_Overview
@@ -33,3 +34,4 @@ python test.py
 ```
 ## Result
 <img width="741" height="163" alt="shadow_removal" src="https://github.com/user-attachments/assets/d3c9dfe2-7d3e-4705-be2e-0e88a347af8d" />
+<img width="2009" height="1952" alt="그림1" src="https://github.com/user-attachments/assets/4dded164-ab1e-4c69-beea-6960d9624ffd" />
