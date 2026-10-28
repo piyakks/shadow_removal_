@@ -1,3 +1,4 @@
+
 # shadow_removal_
 <img width="3765" height="1880" alt="그림1" src="https://github.com/user-attachments/assets/69f73733-9286-4c9d-8b63-3e8b3a3f8b8f" />
 heira_based_shadow_removal
@@ -28,3 +29,4 @@ python train.py
 python test.py
 ```
 ## Result
+<img width="741" height="163" alt="shadow_removal" src="https://github.com/user-attachments/assets/d3c9dfe2-7d3e-4705-be2e-0e88a347af8d" />
