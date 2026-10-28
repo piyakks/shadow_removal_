@@ -34,4 +34,4 @@ python test.py
 ```
 ## Result
 <img width="741" height="163" alt="shadow_removal" src="https://github.com/user-attachments/assets/d3c9dfe2-7d3e-4705-be2e-0e88a347af8d" />
-<img width="2009" height="1952" alt="그림1" src="https://github.com/user-attachments/assets/4dded164-ab1e-4c69-beea-6960d9624ffd" />
+<img width="1000" height="1000" alt="그림1" src="https://github.com/user-attachments/assets/4dded164-ab1e-4c69-beea-6960d9624ffd" />
