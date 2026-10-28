@@ -12,7 +12,7 @@ heira_based_shadow_removal
 ---
 ## training
 1. **기본 가중치 다운로드**  
-[heira_l_adapter.pth]([https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/hiera) 를 다운로드 후 `sam_weight/` 폴더에 저장.
+[heira_l_adapter.pth](차후 링크 첨부) 를 다운로드 후 `sam_weight/` 폴더에 저장.
 
 ```bash
 sam_weight
