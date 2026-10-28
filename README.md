@@ -1,7 +1,8 @@
 
 # shadow_removal_
 <img width="3765" height="1880" alt="그림1" src="https://github.com/user-attachments/assets/69f73733-9286-4c9d-8b63-3e8b3a3f8b8f" />
-heira_based_shadow_removal
+사전 학습 Foundatoin 모델과 Dilated Neighoborhood Attention Transformer(DiNAT)을 기반으로 한 Shadow Removal 딥러닝 모델 설계 \\
+DiNAT의 국소지역 어텐션을 기반으로 그림자 구역 주변에 대한 어텐션을 통한 영역 복원
 
 ## Environment
 - **OS:** Ubuntu 20.04  
