@@ -8,10 +8,10 @@ DiNAT의 국소지역 어텐션을 기반으로 그림자 구역 주변에 대�
 ## Environment
 - **OS:** Ubuntu 20.04  
 - **Python:** 3.10.18  
-- **PyTorch:** 2.0.1  
-- **CUDA:** 11.7  
-- **GPU:** RTX 3090 24GB
-
+- **PyTorch:** 2.3.1  
+- **CUDA:** 12.4  
+- **GPU:** RTX 3090 24GB x 2
+ 
 ---
 ## training
 1. **기본 가중치 다운로드**  
